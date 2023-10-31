@@ -8,3 +8,7 @@ Muro is a specialized pair of smart glasses designed for individuals with vision
 First you have to install the libraries:
 
 `pip install Pytesseract opencv-python pyttsx3 numpy speech-recognition pywhatkit beautifulSoup matplotlib`
+
+Then you have to write 
+
+`python TalkingDetectingCamera1.py`
