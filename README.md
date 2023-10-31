@@ -1,20 +1,8 @@
-# Indian paper currency detection using ```opencv3``` and ```python3```
+# Muru
 
-To run do
-```python3 detect.py```
+## Introduction :
+Muro is a specialized pair of smart glasses designed for individuals with vision impairments. These glasses are equipped with features that enable them to read text, identify objects, recognize different currency bills, and engage in verbal communication with the user. Muro accepts voice commands as input and provides responses in the form of audio messages. It accepts French and English Languages. 
 
-To set a different image modify the ```testing_image``` in detect.py
+## run code:
 
-The failed parts are in try.py
-
-UE14CS348 course - mini project  
-Digital Image Processing  
-
-
-## TODO:
-### 	Figure out four point transform
-###	Figure out testing data warping
-### 	Use webcam as input
-### 	Figure out how to use contours
-### 		Currently detects inner rect -> detect outermost rectangle
-### 	Try using video stream from android phone
+first
