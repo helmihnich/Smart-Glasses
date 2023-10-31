@@ -5,4 +5,5 @@ Muro is a specialized pair of smart glasses designed for individuals with vision
 
 ## run code:
 
-first
+First you have to install the libreries 
+`pip install Pytesseract opencv-python pyttsx3 numpy speech-recognition pywhatkit beautifulSoup matplotlib`
